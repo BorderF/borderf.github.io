@@ -90,7 +90,7 @@
       
       <i class="fas fa-archive" style="zoom: 0.6;"></i>
       
-      <span>档案</span>
+      <span>归档</span>
     </a>
     
   </li>
@@ -112,18 +112,7 @@
       
       <i class="fas fa-comments" style="zoom: 0.6;"></i>
       
-      <span>联系</span>
-    </a>
-    
-  </li>
-  
-  <li class="hide-on-med-and-down nav-item">
-    
-    <a href="/friends" class="waves-effect waves-light">
-      
-      <i class="fas fa-address-book" style="zoom: 0.6;"></i>
-      
-      <span>友链</span>
+      <span>留言板</span>
     </a>
     
   </li>
@@ -193,7 +182,7 @@
 			
 			    <i class="fa-fw fas fa-archive"></i>
 			
-			档案
+			归档
 		</a>
           
         </li>
@@ -215,18 +204,7 @@
 			
 			    <i class="fa-fw fas fa-comments"></i>
 			
-			联系
-		</a>
-          
-        </li>
-        
-        <li class="m-nav-item">
-	  
-		<a href="/friends" class="waves-effect waves-light">
-			
-			    <i class="fa-fw fas fa-address-book"></i>
-			
-			友链
+			留言板
 		</a>
           
         </li>
@@ -480,19 +458,8 @@
 
         let carouselIntervalId;
         
-        // Loop to call the next cover article picture.
-        let autoCarousel = function () {
-            carouselIntervalId = setInterval(function () {
-                coverSlider.carousel('next');
-            }, 5000);
-        };
-        autoCarousel();
-        
 
         function restartPlay() {
-            
-            clearInterval(carouselIntervalId);
-            autoCarousel();
             
         };
 
