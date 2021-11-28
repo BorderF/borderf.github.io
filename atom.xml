@@ -6,7 +6,7 @@
   <link href="https://borderf.github.io/atom.xml" rel="self"/>
   
   <link href="https://borderf.github.io/"/>
-  <updated>2021-05-01T06:18:31.066Z</updated>
+  <updated>2021-11-28T12:45:37.894Z</updated>
   <id>https://borderf.github.io/</id>
   
   <author>
@@ -17,28 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>测试博文</title>
-    <link href="https://borderf.github.io/2021/05/01/ce-shi-bo-wen/"/>
-    <id>https://borderf.github.io/2021/05/01/ce-shi-bo-wen/</id>
-    <published>2021-05-01T06:12:48.000Z</published>
-    <updated>2021-05-01T06:18:31.066Z</updated>
-    
-    
-    
-    
-    <category term="test1" scheme="https://borderf.github.io/categories/test1/"/>
-    
-    
-    <category term="测试" scheme="https://borderf.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
     <link href="https://borderf.github.io/2021/04/30/hello-world/"/>
     <id>https://borderf.github.io/2021/04/30/hello-world/</id>
     <published>2021-04-30T02:57:52.820Z</published>
-    <updated>2021-04-30T02:57:52.820Z</updated>
+    <updated>2021-11-28T12:45:37.894Z</updated>
     
     
       
